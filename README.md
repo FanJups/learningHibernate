@@ -1,2 +1,4 @@
 # learningHibernate
-I am learning Hibernate using https://www.tutorialspoint.com/hibernate/index.htm
+Just want to deepen what I know about  Hibernate 
+
+https://www.tutorialspoint.com/hibernate/index.htm
