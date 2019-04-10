@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping">
+ 
+<hibernate-mapping>
+    <class name="com.javawebtutor.User" table="USER">
+        <id name="userId" column="USER_ID" type="int" >
+            <generator class="assigned"/>
+        </id>
+        <property name="username" column="USERNAME"/>
+           
+        <property name="createdBy" column="CREATED_BY"/>
+            
+        
+        <property name="createdDate" column="CREATED_DATE" type="date" />
+           
+       
+    </class>
+</hibernate-mapping>
