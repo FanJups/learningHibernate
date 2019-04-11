@@ -9,3 +9,7 @@ HibernateSetMapping/.project
 HibernateSortedSetMapping/.settings/
 HibernateSortedSetMapping/.classpath
 HibernateSortedSetMapping/.project
+
+HibernateListMapping/.settings/
+HibernateListMapping/.classpath
+HibernateListMapping/.project
