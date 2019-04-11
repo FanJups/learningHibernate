@@ -29,3 +29,7 @@ HibernateSortedMapMapping/.project
 HibernateManyToOneMapping/.settings/
 HibernateManyToOneMapping/.classpath
 HibernateManyToOneMapping/.project
+
+HibernateOneToOneMapping/.settings/
+HibernateOneToOneMapping/.classpath
+HibernateOneToOneMapping/.project
