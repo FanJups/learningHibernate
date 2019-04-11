@@ -1,6 +1,8 @@
 # learningHibernate
 Just want to deepen what I know about  Hibernate 
 
+Hibernate One To Many Mapping -> Hibernate Set Mapping
+
 https://www.tutorialspoint.com/hibernate/index.htm
 
 ## tutorial hibernate maven eclipse
