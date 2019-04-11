@@ -60,3 +60,11 @@ https://stackoverflow.com/questions/43191294/hibernate-error-executing-ddl-via-j
 https://www.google.com/search?ei=WDWvXNLiIYKSlwSKmL-YBw&q=.gitignore+medium&oq=.gitignore+medium&gs_l=psy-ab.3...17221.24021..24484...0.0..1.768.4819.2j7j1j4j0j2j1......0....1..gws-wiz.......0i71j35i39j0j0i203j0i22i30j0i20i263j33i160.WIeUrzRUUys
 
 https://medium.com/@haydar_ai/learning-how-to-git-ignoring-files-and-folders-using-gitignore-177556afdbe3
+
+## how to change the type of table from myisam to innodb using hibernate
+
+https://www.google.com/search?ei=AV2vXMfEDI-sa62Dg4AI&q=how+to+change+the+type+of+table+from+myisam+to+innodb+using+hibernate&oq=how+to+change+the+type+of+table+from+myisam+to+innodb+using+hibernate&gs_l=psy-ab.3...10297.17992..18819...0.0..0.201.1953.17j4j1......0....1..gws-wiz.......0i71j35i39j33i10.52pv_kNlCZM
+
+https://stackoverflow.com/questions/1459265/hibernate-create-mysql-innodb-tables-instead-of-myisam
+
+
