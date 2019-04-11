@@ -17,3 +17,11 @@ HibernateListMapping/.project
 HibernateBagMapping/.settings/
 HibernateBagMapping/.classpath
 HibernateBagMapping/.project
+
+HibernateMapMapping/.settings/
+HibernateMapMapping/.classpath
+HibernateMapMapping/.project
+
+HibernateSortedMapMapping/.settings/
+HibernateSortedMapMapping/.classpath
+HibernateSortedMapMapping/.project
