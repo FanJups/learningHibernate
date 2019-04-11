@@ -25,3 +25,7 @@ HibernateMapMapping/.project
 HibernateSortedMapMapping/.settings/
 HibernateSortedMapMapping/.classpath
 HibernateSortedMapMapping/.project
+
+HibernateManyToOneMapping/.settings/
+HibernateManyToOneMapping/.classpath
+HibernateManyToOneMapping/.project
