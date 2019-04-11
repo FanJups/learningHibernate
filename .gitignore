@@ -37,3 +37,7 @@ HibernateOneToOneMapping/.project
 HibernateManyToManyMapping/.settings/
 HibernateManyToManyMapping/.classpath
 HibernateManyToManyMapping/.project
+
+HibernateComponentMapping/.settings/
+HibernateComponentMapping/.classpath
+HibernateComponentMapping/.project
