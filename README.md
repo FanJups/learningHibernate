@@ -54,3 +54,9 @@ https://docs.oracle.com/javaee/7/tutorial/persistence-intro005.htm
 https://www.google.com/search?q=error+executing+ddl+via+jdbc+statement&oq=error+exe&aqs=chrome.0.0j69i57j0l4.10785j0j7&sourceid=chrome&ie=UTF-8
 
 https://stackoverflow.com/questions/43191294/hibernate-error-executing-ddl-via-jdbc-statement
+
+## .gitignore medium
+
+https://www.google.com/search?ei=WDWvXNLiIYKSlwSKmL-YBw&q=.gitignore+medium&oq=.gitignore+medium&gs_l=psy-ab.3...17221.24021..24484...0.0..1.768.4819.2j7j1j4j0j2j1......0....1..gws-wiz.......0i71j35i39j0j0i203j0i22i30j0i20i263j33i160.WIeUrzRUUys
+
+https://medium.com/@haydar_ai/learning-how-to-git-ignoring-files-and-folders-using-gitignore-177556afdbe3
