@@ -69,4 +69,14 @@ https://www.google.com/search?ei=AV2vXMfEDI-sa62Dg4AI&q=how+to+change+the+type+o
 
 https://stackoverflow.com/questions/1459265/hibernate-create-mysql-innodb-tables-instead-of-myisam
 
+## annotation configuration hibernate
+
+https://www.google.com/search?q=annotation+configuration+hibernate&oq=Annotation+Configuration+&aqs=chrome.3.69i57j0l5.14915j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.jboss.org/hibernate/annotations/3.4/reference/fr/html/ch01.html
+
+## hibernate annotation maven
+
+https://mvnrepository.com/artifact/org.hibernate/hibernate-annotations/3.5.6-Final
+
 
