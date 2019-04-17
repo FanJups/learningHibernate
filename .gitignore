@@ -45,4 +45,4 @@ HibernateComponentMapping/.project
 HibernateAnnotations/.settings/
 HibernateAnnotations/.classpath
 HibernateAnnotations/.project
-HibernateAnnotations/.settings/
+HibernateAnnotations/target/
