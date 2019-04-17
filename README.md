@@ -79,4 +79,10 @@ https://docs.jboss.org/hibernate/annotations/3.4/reference/fr/html/ch01.html
 
 https://mvnrepository.com/artifact/org.hibernate/hibernate-annotations/3.5.6-Final
 
+## Failed to create sessionFactory object.java.lang.NoClassDefFoundError: org/hibernate/cfg/Mappings
+
+https://www.google.com/search?q=Failed+to+create+sessionFactory+object.java.lang.NoClassDefFoundError%3A+org%2Fhibernate%2Fcfg%2FMappings&oq=Failed+to+create+sessionFactory+object.java.lang.NoClassDefFoundError%3A+org%2Fhibernate%2Fcfg%2FMappings&aqs=chrome..69i57.4244j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/35981363/getting-error-java-lang-noclassdeffounderror-org-hibernate-cfg-mappings-in-a/35981486
+
 
