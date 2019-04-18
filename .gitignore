@@ -46,3 +46,8 @@ HibernateAnnotations/.settings/
 HibernateAnnotations/.classpath
 HibernateAnnotations/.project
 HibernateAnnotations/target/
+
+HibernateCriteriaQueries/.settings/
+HibernateCriteriaQueries/.classpath
+HibernateCriteriaQueries/.project
+HibernateCriteriaQueries/target/
