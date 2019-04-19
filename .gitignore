@@ -56,3 +56,8 @@ HibernateNativeSql/.settings/
 HibernateNativeSql/.classpath
 HibernateNativeSql/.project
 HibernateNativeSql/target/
+
+HibernateBatchProcessing/.settings/
+HibernateBatchProcessing/.classpath
+HibernateBatchProcessing/.project
+HibernateBatchProcessing/target/
