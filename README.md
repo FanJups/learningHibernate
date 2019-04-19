@@ -85,4 +85,10 @@ https://www.google.com/search?q=Failed+to+create+sessionFactory+object.java.lang
 
 https://stackoverflow.com/questions/35981363/getting-error-java-lang-noclassdeffounderror-org-hibernate-cfg-mappings-in-a/35981486
 
+## The method openSession() in the type SessionFactory is not applicable for the arguments (MyInterceptor)
+
+https://www.google.com/search?q=The+method+openSession()+in+the+type+SessionFactory+is+not+applicable+for+the+arguments+(MyInterceptor)&oq=The+method+openSession()+in+the+type+SessionFactory+is+not+applicable+for+the+arguments+(MyInterceptor)&aqs=chrome..69i57.5520j0j4&sourceid=chrome&ie=UTF-8
+
+https://coderanch.com/t/581575/databases/factory-openSession-MyInterceptor-Sessionfactory-api
+
 
