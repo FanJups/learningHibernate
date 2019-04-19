@@ -61,3 +61,8 @@ HibernateBatchProcessing/.settings/
 HibernateBatchProcessing/.classpath
 HibernateBatchProcessing/.project
 HibernateBatchProcessing/target/
+
+HibernateInterceptors/.settings/
+HibernateInterceptors/.classpath
+HibernateInterceptors/.project
+HibernateInterceptors/target/
