@@ -51,3 +51,8 @@ HibernateCriteriaQueries/.settings/
 HibernateCriteriaQueries/.classpath
 HibernateCriteriaQueries/.project
 HibernateCriteriaQueries/target/
+
+HibernateNativeSql/.settings/
+HibernateNativeSql/.classpath
+HibernateNativeSql/.project
+HibernateNativeSql/target/
