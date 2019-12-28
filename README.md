@@ -92,3 +92,5 @@ https://www.google.com/search?q=The+method+openSession()+in+the+type+SessionFact
 https://coderanch.com/t/581575/databases/factory-openSession-MyInterceptor-Sessionfactory-api
 
 
+## Hibernate Statistics
+https://thoughts-on-java.org/how-to-activate-hibernate-statistics-to-analyze-performance-issues/
