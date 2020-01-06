@@ -94,3 +94,7 @@ https://coderanch.com/t/581575/databases/factory-openSession-MyInterceptor-Sessi
 
 ## Hibernate Statistics
 https://thoughts-on-java.org/how-to-activate-hibernate-statistics-to-analyze-performance-issues/
+
+# complete-guide-inheritance-strategies-jpa-hibernate
+
+https://thoughts-on-java.org/complete-guide-inheritance-strategies-jpa-hibernate/?utm_source=mail4&utm_medium=email&utm_campaign=advanced_evergreen
