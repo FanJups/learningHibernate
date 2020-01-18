@@ -98,3 +98,7 @@ https://thoughts-on-java.org/how-to-activate-hibernate-statistics-to-analyze-per
 # complete-guide-inheritance-strategies-jpa-hibernate
 
 https://thoughts-on-java.org/complete-guide-inheritance-strategies-jpa-hibernate/?utm_source=mail4&utm_medium=email&utm_campaign=advanced_evergreen
+
+# naming-strategies-in-hibernate-5
+
+https://thoughts-on-java.org/naming-strategies-in-hibernate-5/?ck_subscriber_id=663844209
